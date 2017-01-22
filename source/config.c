@@ -103,7 +103,7 @@ void configMenu(bool isSdMode, bool oldPinStatus, u32 oldPinMode)
 
                                           "Activate a PIN lock.\n\n"
                                           "The PIN will be asked each time\n"
-                                          "Luma3DS boots.\n\n"
+                                          "Drama3DS boots.\n\n"
                                           "4, 6 or 8 digits can be selected.\n\n"
                                           "The ABXY buttons and the directional\n"
                                           "pad buttons can be used as keys.\n\n"
@@ -156,7 +156,7 @@ void configMenu(bool isSdMode, bool oldPinStatus, u32 oldPinMode)
                                           "Refer to the wiki for instructions.",
 
                                           "Use a custom path for the\n"
-                                          "Luma3DS payload.\n\n"
+                                          "Drama3DS payload.\n\n"
                                           "Refer to the wiki for instructions.",
 
                                           "Enable overriding the region and\n"
