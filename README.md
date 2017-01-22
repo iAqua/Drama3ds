@@ -32,6 +32,12 @@ See https://github.com/ItsKipz/Drama3DS/wiki/Credits
 
 ---
 
+## Credits
+
+This is a fork of Luma3DS by AuroraWright.
+
+---
+
 ## Licensing
 
 This software is licensed under the terms of the GPLv3.  
