@@ -28,13 +28,7 @@ See https://github.com/ItsKipz/Drama3ds/wiki
 
 ## Credits
 
-See https://github.com/ItsKipz/Drama3DS/wiki/Credits
-
----
-
-## Credits
-
-This is a fork of Luma3DS by AuroraWright.
+This is a fork of Luma3DS by AuroraWright; see https://github.com/ItsKipz/Drama3DS/wiki/Credits
 
 ---
 
